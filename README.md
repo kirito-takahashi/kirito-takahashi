@@ -128,4 +128,4 @@ Production recruiting automation deployed and running as an owned service.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 ### Languages (human)
-Japanese (native) · English (professional working)
+Japanese (native) · English (intermediate)
