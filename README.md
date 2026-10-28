@@ -2,7 +2,8 @@
 
 I'm an **M.S. in Information Management** student at the **University of Illinois Urbana-Champaign**, working on **organizational analysis with machine learning**, measuring things about people and organizations that were previously only measurable by survey.
 
-I earned my bachelor's degree in International Design Management at **Tokyo University of Science**, studying machine learning and AI in parallel with the core management curriculum. Since then I've shipped production AI systems in the HR and recruiting space, and I care about solving that industry's structural problems rather than decorating them with a model.
+I earned my bachelor's degree in International Design Management at **Tokyo University of Science**, studying machine learning and AI in parallel with the core management curriculum. 
+Since then, I’ve built and deployed AI tools for recruiting as a Forward Deployed Engineer at SIESTA. I’m now at UIUC to study how data and LLMs can address the deeper problems in HR, not just automate the surface.
 
 - 🔭 Currently: research on culture/organization measurement via LLM embeddings
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kirito-takahashi-715046272/) · [Email](kiritot9110@gmail.com)
@@ -112,18 +113,12 @@ Production recruiting automation deployed and running as an owned service.
 <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-<img src="https://img.shields.io/badge/Optuna-1E88E5?style=for-the-badge">
 
-**Methods:** hypothesis testing (Wilcoxon rank-sum, chi-square), confidence intervals, feature engineering, gradient boosting, transformer fine-tuning, sentence embeddings, RAG
+**Methods:** confidence intervals, feature engineering, gradient boosting, transformer fine-tuning, sentence embeddings, RAG
 
 ### Cloud & Infrastructure
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-### Languages (human)
-Japanese (native) · English (intermediate)
