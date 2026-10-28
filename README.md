@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Kirito
 
-I'm an **M.S. in Information Management** student at the **University of Illinois Urbana-Champaign**, working on **organizational analysis with machine learning** — measuring things about people and organizations that were previously only measurable by survey.
+I'm an **M.S. in Information Management** student at the **University of Illinois Urbana-Champaign**, working on **organizational analysis with machine learning**, measuring things about people and organizations that were previously only measurable by survey.
 
 I earned my bachelor's degree in International Design Management at **Tokyo University of Science**, studying machine learning and AI in parallel with the core management curriculum. Since then I've shipped production AI systems in the HR and recruiting space, and I care about solving that industry's structural problems rather than decorating them with a model.
 
