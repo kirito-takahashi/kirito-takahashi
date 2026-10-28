@@ -5,7 +5,6 @@ I'm an **M.S. in Information Management** student at the **University of Illinoi
 I earned my bachelor's degree in International Design Management at **Tokyo University of Science**, studying machine learning and AI in parallel with the core management curriculum. Since then I've shipped production AI systems in the HR and recruiting space, and I care about solving that industry's structural problems rather than decorating them with a model.
 
 - 🔭 Currently: research on culture/organization measurement via LLM embeddings
-- 🛠️ I like the full path — problem framing → data → model → the number that convinces a stakeholder
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kirito-takahashi-715046272/) · [Email](kiritot9110@gmail.com)
 
 ---
